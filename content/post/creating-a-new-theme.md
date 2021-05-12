@@ -4,19 +4,10 @@ date: '2014-09-28'
 title: Armed Officer in Schools
 image: artist.jpg
 ---
-We’ve been looking too at whether Gloucester should station armed police officers in our schools.  The cost of having police at the high school is not insignificantand the money we spend on that is money we don’t have available to spend on teachers, counselors or social workers.
- 
+We’ve been looking too at whether Gloucester should station armed police officers in our schools.  The cost of having police at the high school is not insignificantand the money we spend on that is money don’t have available to spend on teachers, counselors or social workers.
 
-
-
-
-
-
-
-Research
-suggests that school resource officers don’tmake schoolssafer but do have a harmful
-effects on students. We’re
-looking at that research, and
+Research suggests that school resource officers don’t make schoolssafer but do have a harmful
+effects on students. We’re looking at that research, and
 at the cost, and trying to see
 what approach makes sense for
 Gloucester.
