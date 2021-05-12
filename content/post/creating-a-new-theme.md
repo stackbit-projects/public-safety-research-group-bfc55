@@ -1,7 +1,7 @@
 ---
 author: Michael Henderson
 date: '2014-09-28'
-title: Cr
+title: Police in Schools
 image: artist.jpg
 ---
 
