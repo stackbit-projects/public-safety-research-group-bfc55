@@ -1,8 +1,8 @@
 ---
-author: "Michael Henderson"
-date: 2014-09-28
-title: Creating a New Theme
-image: 'artist.jpg'
+author: Michael Henderson
+date: '2014-09-28'
+title: Cr
+image: artist.jpg
 ---
 
 ## Introduction
