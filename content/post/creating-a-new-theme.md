@@ -1,7 +1,7 @@
 ---
 author: Michael Henderson
 date: '2014-09-28'
-title: Armed Officer Police in Schools
+title: Armed Officer in Schools
 image: artist.jpg
 ---
 
